@@ -5,3 +5,10 @@ m assistant
 emoji
 translation
 secret converstions
+
+switch account
+create new account
+account settings
+report a problem
+help
+legal & policies
