@@ -9,3 +9,9 @@ bye bye to you
 contacts 
 groups
 notifications
+
+accounts
+settings
+privacy
+personal info
+details
